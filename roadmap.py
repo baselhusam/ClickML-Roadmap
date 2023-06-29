@@ -92,10 +92,6 @@ def app():
 
         Visit the [**ClickML**](https://clickml.streamlit.app) website for more information.
         
-
-        ## 🗺️ ClickML Roadmap
-        This is a roadmap for the ClickML project. It will shows the current status of the project and the future work that needs to be done.
-        Visit the [**ClickML Roadmap**](https://clickml.streamlit.app/roadmap) for more information.
         """
 
     )
