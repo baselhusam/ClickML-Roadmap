@@ -105,6 +105,7 @@ def app():
 
     )
 
+    
     # Hide footer
     hide_footer_style = """
 
