@@ -12,7 +12,7 @@ def app():
     new_line(3)
 
     # Title
-    st.title("🗺️ ClickML Roadmap")
+    st.title("🗺️ ClickML Roadmap ")
 
     # Description
     st.markdown(
