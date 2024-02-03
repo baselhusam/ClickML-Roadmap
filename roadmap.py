@@ -27,7 +27,7 @@ def app():
         """
         <br>
 
-        ##### ☄️ Deep Learning tab →  ``` 🧪 Planning ```    
+        ##### ☄️ Computer Vision tab →  ``` 🧪 Planning ```    
         With this tab, you will be able to train a deep learning model with your data. 
         You will be able to do all the customizations that you want, from the number of layers to the optimizer.
         
